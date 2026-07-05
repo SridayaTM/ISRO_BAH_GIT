@@ -1,6 +1,13 @@
-# ☀️ Solar Operations Console
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-success)
+![Hackathon](https://img.shields.io/badge/ISRO-BAH-orange)
 
-### Physics-Aware Solar Flare Decision Support Prototype
+# ☀️ Physics-Aware Solar Flare Decision Support System
+
+## Solar Operations Console
+
+Developed for the ISRO Bharatiya Antariksha Hackathon (BAH)
 
 A modular decision support prototype developed for the **ISRO Bharatiya Antariksha Hackathon (BAH)**.
 
@@ -10,6 +17,16 @@ Rather than functioning as a black-box prediction model, the prototype provides 
 
 ---
 
+## Motivation
+
+Space weather events can influence satellite operations,
+communication systems and navigation services.
+
+The objective of this project is to convert complementary
+solar observations into an explainable operational
+decision-support workflow suitable for scientific
+interpretation and mission readiness assessment.
+---
 # Problem Statement
 
 Solar flares can significantly affect satellites, communication systems, navigation services, and space missions.
@@ -259,12 +276,19 @@ streamlit run app.py
 
 # Future Enhancements
 
-- Integration with real-time Aditya-L1 observations
-- Dynamic threshold adaptation
-- Physics-informed machine learning models
-- Multi-instrument data fusion
-- Automated operational alert generation
-- Advanced visualization dashboard
+• Real-time Aditya-L1 telemetry integration
+
+• Physics-informed machine learning
+
+• Adaptive threshold optimization
+
+• Multi-instrument fusion
+
+• Automated alert dissemination
+
+• Historical event comparison
+
+• Continuous operational monitoring
 
 ---
 
