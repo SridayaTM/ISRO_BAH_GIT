@@ -11,6 +11,12 @@ Developed for the ISRO Bharatiya Antariksha Hackathon (BAH)
 
 A modular decision support prototype developed for the **ISRO Bharatiya Antariksha Hackathon (BAH)**.
 
+## Dashboard Demo
+
+<p align="center">
+  <img src="demo.gif" width="900">
+</p>
+
 The system integrates complementary **SoLEXS (Soft X-ray Solar Spectrometer)** and **HEL1OS (Hard X-ray Spectrometer)** observations to characterize current solar activity, estimate operational readiness, and generate an explainable short-term operational outlook.
 
 Rather than functioning as a black-box prediction model, the prototype provides transparent, evidence-based assessments to assist scientific interpretation and operational decision-making.
