@@ -300,13 +300,25 @@ The generated assessments and forecasts are intended solely for demonstration an
 
 ---
 
-# Team CIRCUIT SOLVERS
-Krishnaswamy K V
-Sridaya T M
-Manoranjan
-Monishwar B
+## Team
 
-Developed for the **ISRO Bharatiya Antariksha Hackathon (BAH)**.
+Team Name: CIRCUIT SOLVERS
+
+Members
+
+• Krishnaswamy K V
+
+• Sridaya T M
+
+• Manoranjan
+
+• Monishwar B
+--
+## License
+
+This project was developed solely for the
+ISRO Bharatiya Antariksha Hackathon (BAH)
+for educational and demonstration purposes.
 <img width="995" height="620" alt="image" src="https://github.com/user-attachments/assets/13bb8d7e-659e-4cf2-a11b-32874e18bdf5" />
 <img width="989" height="526" alt="image" src="https://github.com/user-attachments/assets/798870e0-8faf-4632-b553-8e8869e7d726" />
 <img width="994" height="479" alt="image" src="https://github.com/user-attachments/assets/13db61ba-c6bd-4c33-be25-d371c2a34c45" />
