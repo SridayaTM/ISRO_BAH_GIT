@@ -311,7 +311,7 @@ Members
 
 • Sridaya T M
 
-• Manoranjan
+• Manoranjan V S
 
 • Monishwar B
 --
